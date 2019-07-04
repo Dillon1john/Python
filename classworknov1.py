@@ -1,0 +1,11 @@
+s="THE NAME OF MY COLLEGE IS NEW YORK CITY COLLEGE OF TECHNOLOGY, BROOKLYN, NEW YORK, UNITED STATES OF AMERICA"
+A=s.count("A")
+E=s.count("E")
+I=s.count("I")
+O=s.count("O")
+U=s.count("U")
+print(A)
+print(E)
+print(I)
+print(O)
+print(U)

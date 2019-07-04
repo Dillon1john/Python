@@ -1,0 +1,7 @@
+x=str(input("Enter First Name"))
+y=int(input("Enter Work Hours"))
+z=int(input("Enter Hourly Pay"))
+totalpay=(y*z)
+totalpayaftertax=(totalpay*.10)
+firstname=(x)
+print(firstname,totalpay,totalpayaftertax)
